@@ -1,4 +1,4 @@
-# RotaryEncoder
+# AdvancedRotaryEncoder
 
 A lightweight and user-friendly rotary encoder library for Arduino-compatible platforms.
 
