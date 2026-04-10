@@ -1,0 +1,39 @@
+RotaryEncoder	KEYWORD1
+EventType	KEYWORD1
+Config	KEYWORD1
+Event	KEYWORD1
+
+begin	KEYWORD2
+update	KEYWORD2
+read	KEYWORD2
+peek	KEYWORD2
+clear	KEYWORD2
+moved	KEYWORD2
+
+press	KEYWORD2
+release	KEYWORD2
+click	KEYWORD2
+doubleClick	KEYWORD2
+longPress	KEYWORD2
+repeat	KEYWORD2
+
+hasEvent	KEYWORD2
+getEvent	KEYWORD2
+clearEvents	KEYWORD2
+
+setReverse	KEYWORD2
+setStepsPerDetent	KEYWORD2
+setDebounceTime	KEYWORD2
+setRepeatTiming	KEYWORD2
+setAcceleration	KEYWORD2
+
+enableDoubleClick	KEYWORD2
+enableLongPress	KEYWORD2
+enableButton	KEYWORD2
+enableRepeat	KEYWORD2
+enableAcceleration	KEYWORD2
+
+useInternalPullups	KEYWORD2
+enableInterrupts	KEYWORD2
+disableInterrupts	KEYWORD2
+usingInterrupts	KEYWORD2
