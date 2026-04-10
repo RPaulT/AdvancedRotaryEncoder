@@ -29,9 +29,8 @@ Designed for responsive UI applications with minimal overhead and maximum flexib
 2. Place it in your `Arduino/libraries/` folder
 3. Restart the Arduino IDE
 
-## Example:
+## BasicExample:
 ```cpp
-RotaryEncoder rotaryEncoder(6, 7, 5);
 #include <RotaryEncoder.h>
 
 RotaryEncoder rotaryEncoder(6, 7, 5);
